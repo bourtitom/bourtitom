@@ -59,8 +59,7 @@ je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année
 <a href="https://www.instagram.com/bourtitom/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://paypal.me/tbrti">![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 </a>
-
-### Merci d'avoir pris le temps de lire mon profil 
-
-<img src="https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif" alt="drawing" style="width:100px;"/>
-
+### Merci d'avoir pris le temps de lire mon profil
+  <p align="center">
+<img src="https://i.gifer.com/origin/bb/bb94781eba7260fe3b999500bc7171af.gif" alt="drawing" style="width:80%;"/>
+</p>
