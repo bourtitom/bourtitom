@@ -11,7 +11,6 @@
 
 je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année 
 
-<a href="https://github.com/garixlegends-crypto ">My duo in code</a> 
 
 ### 🧑‍💻 Mes Competences : 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
