@@ -9,7 +9,7 @@
 
 ##  🧙🏻‍♂️  My Presentation 
 
-je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année 
+je m'appelle Tom j'ai 18 ans et je suis chez la Coding Factory en L1 
 
 
 ### 🧑‍💻 Mes Competences : 
