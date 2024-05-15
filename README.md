@@ -36,15 +36,8 @@ je m'appelle Tom j'ai 18 ans et je suis chez la Coding Factory en L1
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 
-### En cours : 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-### A venir : 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
+### My Works : 
+<a href="https://thecreatorcoding.netlify.app/">![The Creator RPG](https://thecreatorcoding.netlify.app/assets/img/image.png)</a> 
 
 ## FIN
 ### Ou me contacter ? 
