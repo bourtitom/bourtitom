@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="450" src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png?raw=true"  />
+  <img height="500" src="https://assets.hongkiat.com/uploads/70-beautiful-dual-monitors-desktop-wallpapers/17-Firewatch-Art.jpg"  />
 </div>
 
 ###
