@@ -45,6 +45,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
+###
+
+<h2 align="left"> My Works : </h2>
+
+<a href="https://thecreatorcoding.netlify.app/">![The Creator RPG](https://thecreatorcoding.netlify.app/assets/img/image.png)</a> 
 
 ###
 
@@ -59,7 +64,7 @@
   <a href="kiriaoriginel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="tom.bourti@gmail.com" target="_blank">
+  <a href="mailto:tom.bourti@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
