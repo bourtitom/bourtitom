@@ -115,9 +115,15 @@ Au-delà du code, je m'immerge dans l'univers des jeux de rôle et la création 
 </a>
 </div>
 
-<!-- Bannière de fin -->
-<!-- Bannière de fin -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" />
+<br>
+<br>
+
+<div align="center">
+
 <p align="center" width="100%">
+    <img src="https://25.media.tumblr.com/tumblr_made7htWgN1rux0w0o1_500.gif" alt="pixel art gif" />
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=24&fontAlign=50&fontAlignY=80&animation=twinkling&fontColor=white"/>
 </p>
 
