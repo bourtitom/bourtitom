@@ -1,10 +1,42 @@
-# 👋 Salut, je suis Tom !
+<div align="center">
+
+<!-- Bannière d'en-tête -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Tom%20Bourti&reversal=false&section=header&textBg=false&animation=fadeIn&fontAlign=50&strokeWidth=0.4&desc=Développeur%20Web"/>
+
+<a href="https://github.com/bourtitom">
+    <img src="https://komarev.com/ghpvc/?username=bourtitom&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="profile views" />
+</a>
+<a href="https://github.com/bourtitom?tab=followers">
+    <img src="https://img.shields.io/github/followers/bourtitom?style=for-the-badge&color=blueviolet" height="25" alt="followers" />
+</a>
+</div>
+<!-- Trophées GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=bourtitom&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" align="middle" /> 
+<br><br>
+
+![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-1%20year%20of%20contributions-blue)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-5%20collaborations-orange)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-100%2B%20issues%20resolved-yellow)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-200%2B%20PRs%20merged-green)
+![YOLO](https://img.shields.io/badge/YOLO-%E2%9C%94-green)
+
+
+</br>
+
+# 👋 Hello World !
 
 Développeur web en bachelor, passionné par le développement. Plus de 3 ans d'expérience en développement web, toujours à la recherche de nouveaux défis techniques.
 
 <div align="center">
 
-## 🛠️ Stack Technique
+<!-- Section Stack Technique -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" />
+<p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px">
+  <b>Stack Technique</b>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px">
+</p>
+
 
 | Catégorie | Technologies |
 |-----------|-------------|
@@ -17,15 +49,13 @@ Développeur web en bachelor, passionné par le développement. Plus de 3 ans d'
 
 </div>
 
-## 🌟 Badges de réalisations
-
-![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-1%20year%20of%20contributions-blue)
-![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-5%20collaborations-orange)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-100%2B%20issues%20resolved-yellow)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-200%2B%20PRs%20merged-green)
-![YOLO](https://img.shields.io/badge/YOLO-%E2%9C%94-green)
-
-## 🚀 Mes projets phares
+<!-- Section Projets -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <b>Projets Phares</b>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
 
 **Mon plus grand projet** est [The Creator](https://thecreatorcoding.netlify.app/views/game), un RPG que j'ai créé en équipe avec Unity et C#, avec un site web dédié pour la gestion du jeu et des personnages.
 
@@ -51,21 +81,41 @@ Au-delà du code, je m'immerge dans l'univers des jeux de rôle et la création 
 
 </details>
 
-## 📈 Mes statistiques GitHub
+<!-- Section Stats -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px">
+  <b>Statistiques GitHub</b>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px">
+</p>
 
+<!-- GitHub Stats -->
 <div align="center">
-
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=bourtitom&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=bourtitom&layout=compact&theme=radical)
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bourtitom&show_icons=true&count_private=true&hide_border=true&title_color=6B5DF7&icon_color=6B5DF7&text_color=c9d1d9&bg_color=0d1117" alt="Tom Bourti github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bourtitom&layout=compact&hide_border=true&title_color=6B5DF7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## 📫 Me contacter
+<!-- Section Contact -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="30px" height="30px">
+  <b>Me Contacter</b>
+  <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="30px" height="30px">
+</p>
 
 <div align="center">
+<a href="mailto:tom.bourti@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/tom-bourti-904431253/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/bourtitom" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</div>
 
-[![Email](https://img.shields.io/badge/Email-tom.bourti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom.bourti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%20Bourti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-bourti-904431253/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40bourtitom-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bourtitom)
+<!-- Bannière de fin -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&section=footer"/>
 
 </div>
