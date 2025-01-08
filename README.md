@@ -14,15 +14,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=bourtitom&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" align="middle" /> 
 <br><br>
 
-![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-1%20year%20of%20contributions-blue)
-![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-5%20collaborations-orange)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-100%2B%20issues%20resolved-yellow)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-200%2B%20PRs%20merged-green)
-![YOLO](https://img.shields.io/badge/YOLO-%E2%9C%94-green)
-
-
-</br>
-
 # 👋 Hello World !
 
 Développeur web en bachelor, passionné par le développement. Plus de 3 ans d'expérience en développement web, toujours à la recherche de nouveaux défis techniques.
