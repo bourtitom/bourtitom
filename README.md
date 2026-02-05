@@ -25,7 +25,7 @@
 
 # 👋 Hello World !
 
-Développeur web en bachelor, passionné par le développement. Plus de 3 ans d'expérience en développement web, toujours à la recherche de nouveaux défis techniques.
+Développeur web en bachelor, passionné par le développement. Plus de 5 ans d'expérience en développement web, toujours à la recherche de nouveaux défis techniques.
 
 <div align="center">
 
